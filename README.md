@@ -123,5 +123,7 @@ So:
 ---
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mouad-ayoub-255a50304/)
-[![X](https://img.shields.io/badge/X-black?style=flat-square&logo=twitter)](http://x.com/AyoubMouad1971)
+## 📫 Connect with Me
+
+- [💼 LinkedIn](https://www.linkedin.com/in/mouad-ayoub-255a50304/)
+- [🐦 X (Twitter)](http://x.com/AyoubMouad1971)
